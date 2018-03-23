@@ -1,0 +1,16 @@
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.Website.Tests.deps.json
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.Website.Tests.runtimeconfig.json
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.Website.Tests.runtimeconfig.dev.json
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.Website.Tests.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.Website.Tests.pdb
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.pdb
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/obj/Debug/netcoreapp2.0/InSpark.Website.Tests.csproj.CoreCompileInputs.cache
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/obj/Debug/netcoreapp2.0/InSpark.Website.Tests.AssemblyInfoInputs.cache
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/obj/Debug/netcoreapp2.0/InSpark.Website.Tests.AssemblyInfo.cs
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/obj/Debug/netcoreapp2.0/InSpark.Website.Tests.csproj.CopyComplete
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/obj/Debug/netcoreapp2.0/InSpark.Website.Tests.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Tests/obj/Debug/netcoreapp2.0/InSpark.Website.Tests.pdb

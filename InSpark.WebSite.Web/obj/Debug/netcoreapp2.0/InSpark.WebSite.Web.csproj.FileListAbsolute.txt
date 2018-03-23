@@ -1,0 +1,10 @@
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Web/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.deps.json
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Web/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.runtimeconfig.json
+/Users/j.niesen/Dev/InSpark.Website/InSpark.Website.Web/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.runtimeconfig.dev.json
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/bin/Debug/netcoreapp2.0/InSpark.WebSite.Web.pdb
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/obj/Debug/netcoreapp2.0/InSpark.WebSite.Web.csproj.CoreCompileInputs.cache
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/obj/Debug/netcoreapp2.0/InSpark.WebSite.Web.AssemblyInfoInputs.cache
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/obj/Debug/netcoreapp2.0/InSpark.WebSite.Web.AssemblyInfo.cs
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/obj/Debug/netcoreapp2.0/InSpark.WebSite.Web.dll
+/Users/j.niesen/Dev/InSpark.Website/InSpark.WebSite.Web/obj/Debug/netcoreapp2.0/InSpark.WebSite.Web.pdb
